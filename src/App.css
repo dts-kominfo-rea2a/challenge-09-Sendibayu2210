@@ -1,4 +1,7 @@
+body{
+  background-color: rgb(39, 39, 39);
+}
+
 .App {
-  text-align: center;
-  display: flex;
+  text-align: center;  
 }
